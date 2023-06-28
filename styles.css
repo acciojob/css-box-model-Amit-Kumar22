@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+body{
+	border: 2px solid black;
+}
+.contain{
+	border: 15px solid blue;
+	margin: 20px;
+	background-color:  rgba(57, 217, 235, 0.923);
+}
+.main2{
+	border: 2px solid black;
+}
+.main{
+	padding: 50px;
+	border: 2px  lightblue;
+}
+.int{
+	border: 1px dashed;
+	margin:35px;
+	text-align: center;
+}
