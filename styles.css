@@ -1,14 +1,12 @@
 
 /* Your CSS Code here. */
-body{
-	border: 2px solid black;
-}
+
 .contain{
 	border: 15px solid blue;
 	margin: 20px;
 	background-color:  lightblue;
+	width: 300px;
 }
 .main{
 	padding: 50px;
-	width: 300px;
 }
