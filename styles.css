@@ -6,7 +6,8 @@
 	margin: 20px;
 	background-color:  lightblue;
 	width: 300px;
-}
-.main{
 	padding: 50px;
+}
+p{
+	font-family: italic;
 }
