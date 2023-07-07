@@ -1,13 +1,10 @@
 
 /* Your CSS Code here. */
 
-.cont{
+.contain{
 	border: 15px solid blue;
-	margin: 20px;
-	background-color:  lightblue;
-	width: 300px;
 	padding: 50px;
-}
-p{
-	font-family: italic;
+	background-color: lightblue;
+	width: 300px;
+	margin: 20px;
 }
